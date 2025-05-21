@@ -1,0 +1,19 @@
+Solusi Ditemukan! (A*)
+Papan Awal:
+AA.
+PPC
+..C
+...
+
+Gerakan 1: C-DOWN
+AA.
+PP.
+..C
+..C
+
+Gerakan 2: P-RIGHT
+AA.
+.PP
+..C
+..C
+Waktu eksekusi: 20.54 ms

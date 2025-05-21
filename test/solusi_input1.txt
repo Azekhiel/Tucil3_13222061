@@ -1,0 +1,81 @@
+Solusi Ditemukan! (A*)
+Papan Awal:
+AAB..F
+..BCDF
+GPPCDF
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 1: C-UP
+AABC.F
+..BCDF
+GPP.DF
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 2: P-RIGHT
+AABC.F
+..BCDF
+G.PPDF
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 3: I-LEFT
+AABC.F
+..BCDF
+G.PPDF
+GHIII.
+GHJ...
+LLJMM.
+
+Gerakan 4: F-DOWN
+AABC..
+..BCDF
+G.PPDF
+GHIIIF
+GHJ...
+LLJMM.
+
+Gerakan 5: D-UP
+AABCD.
+..BCDF
+G.PP.F
+GHIIIF
+GHJ...
+LLJMM.
+
+Gerakan 6: F-DOWN
+AABCD.
+..BCD.
+G.PP.F
+GHIIIF
+GHJ..F
+LLJMM.
+
+Gerakan 7: P-RIGHT
+AABCD.
+..BCD.
+G..PPF
+GHIIIF
+GHJ..F
+LLJMM.
+
+Gerakan 8: F-DOWN
+AABCD.
+..BCD.
+G..PP.
+GHIIIF
+GHJ..F
+LLJMMF
+
+Gerakan 9: P-RIGHT
+AABCD.
+..BCD.
+G...PP
+GHIIIF
+GHJ..F
+LLJMMF
+Waktu eksekusi: 267.89 ms

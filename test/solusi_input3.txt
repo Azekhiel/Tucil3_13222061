@@ -1,0 +1,2 @@
+Tidak ada solusi.
+Waktu eksekusi: 987.41 ms
